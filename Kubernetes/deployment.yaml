@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: fast-api
-        image: masumkhalil7/k8-practice:0.0.2
+        image: masumkhalil7/k8-practice:0.0.3
         ports:
         - containerPort: 80
         resources: 
